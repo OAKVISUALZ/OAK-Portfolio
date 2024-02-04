@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OAKVISUALZ
 - 👀 I’m interested in Mobile app development.
-- 🌱 I’m currently learning flutter & Java.
+- 🌱 I’m currently learning flutter.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
 
