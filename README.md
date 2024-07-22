@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @OAKVISUALZ
-- 👀 I’m interested in Software engineering.
-- 🌱 I’m currently learning Machine Learning and flutter.
-- 💞️ I’m looking to collaborate on projects
+- 👋 Hi, I’m OAK
+- 👀 I’m interested in Machine learning engineering.
+- 🌱 I’m currently learning ML frameworks.
+- 💞️ I’m looking to collaborate on projects and reasearch.
 - 📫 How to reach me ...
 
 <!---
