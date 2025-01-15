@@ -1,8 +1,9 @@
-- 👋 Hi, I’m OAK
-- 👀 I’m interested in Machine learning engineering.
-- 🌱 I’m currently learning ML frameworks.
-- 💞️ I’m looking to collaborate on projects and reasearch.
-- 📫 How to reach me ...
+Hi, I’m OAK
+I’m a Machine learning engineer.
+I’m currently learning ML frameworks.
+I’m looking to collaborate on projects and research.
+📫 How to reach me ...
+https://www.linkedin.com/in/olaleye-aanuoluwapo-kayode/
 
 <!---
 OAKVISUALZ/OAKVISUALZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
